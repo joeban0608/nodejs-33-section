@@ -7,3 +7,4 @@ This is accroding to nodejs classes 33-505 - 33-512  https://www.udemy.com/cours
 - [33-507 Writing TypeScript Express.js Code](https://www.notion.so/33-507-Writing-TypeScript-Express-js-Code-44d976260a104184a0c8c7e240ac1c19)
 - [33-508 Adding REST Routes with TypeScript](https://www.notion.so/33-508-Adding-REST-Routes-with-TypeScript-e07006414c3c43e79cec6dda38e2abab)
 - [33-509 Finishing the REST Routes](https://www.notion.so/33-509-Finishing-the-REST-Routes-8a4ab106da464f279c752659bf92c245)
+- [33-511 Using Type Casting](https://www.notion.so/33-511-Using-Type-Casting-6f11087406c043b2b876ce0a85f38593)
